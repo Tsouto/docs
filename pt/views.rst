@@ -10,7 +10,7 @@ criar PDFs que podem ser baixados também são de responsabilidade
 da Camada *View*.
 
 O CakePHP traz incluso várias classes do tipo *View* para lidar com os
-cenários mais comuns de renderização:
+cenários mais comuns de renderização teste:
 
 - Para criar *webservices* em XML ou JSON, você pode usar o :doc:`views/json-and-xml-views`
 - Para prover arquivos protegidos ou arquivos criados dinamicamente, você pode usar :doc:`views/media-view`
